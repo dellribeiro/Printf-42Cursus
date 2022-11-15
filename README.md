@@ -3,9 +3,8 @@
 ##### ***Because ft_putnbr() and ft_putstr() aren’t enough\***
 
 
-
-## Status
 ![Logo](https://github.com/dellribeiro/Printf-42Cursus/blob/main/Badge/ft_printfm.png) 
+## Status
 **Finished**
 
 Grade: **105/100** ✅
