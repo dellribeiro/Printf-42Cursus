@@ -5,7 +5,7 @@
 
 
 ## Status
-
+![Logo](https://github.com/dellribeiro/Printf-42Cursus/blob/main/Badge/ft_printfm.png) 
 **Finished**
 
 Grade: **105/100** ✅
@@ -88,7 +88,7 @@ $ make fclean
 To use the library functions in your code, simply include its header:
 
 ```c
-#include "libft.h"
+#include "ft_printf.h"
 ```
 
 ## 📋 Testing
